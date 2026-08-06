@@ -7,8 +7,8 @@
 function Landing() {
   return (
     <>
-      <h1>Welcome to StepNext.ai</h1>
-      <p>Your AI-powered Career Operating System.</p>
+      {/* <h1>Welcome to StepNext.ai</h1>
+      <p>Your AI-powered Career Operating System.</p> */}
     </>
   );
 }

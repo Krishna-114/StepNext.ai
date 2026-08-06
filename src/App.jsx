@@ -3,13 +3,15 @@
 
 // app.jsx work is to start the application , nothing else 
 import AppRoute from "./Routes/AppRoutes";
+import NavBar from "./Components/Layout/Navbar";
 
 function App() {
   return (
     <>
-    <h1>StepNext.ai</h1>
+    {/* <h1>StepNext.ai</h1> */}
     {/*   never forget Routing. */}
     <AppRoute/>
+    <NavBar/>
     
     </>
   )

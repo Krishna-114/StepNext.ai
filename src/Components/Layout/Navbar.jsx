@@ -25,7 +25,7 @@ function NavBar(){
         <div className="flex items-center gap-4">
             <button>Login</button>
 
-            <button className="bg-purple-600 hover:bg-purple-700 hover:scale-105  transition-all duration-200 text-white px-5 py-3 rounded-xl">Get Started</button>
+            <button className="bg-purple-600 hover:bg-purple-700 hover:scale-105  transition-all duration-200 text-white px-3 py-2 rounded-xl">Create Account</button>
 
             <button>☰</button>
 
